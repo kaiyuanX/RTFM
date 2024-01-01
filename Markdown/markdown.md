@@ -1,21 +1,29 @@
-- [Comments](#comments)
-- [Emphasis](#emphasis)
-- [Lists](#lists)
-- [Images](#images)
-- [Links](#links)
-- [Emoji](#emoji)
-- [Quotes](#quotes)
-- [Horizontal Rule](#horizontal-rule)
-- [Summary dropdown](#summary-dropdown)
-- [Inline code](#inline-code)
-- [Fenced code block](#fenced-code-block)
-- [Task lists](#task-lists)
-- [Tables](#tables)
-- [Extended syntax In MPE](#extended-syntax-in-mpe)
-    - [Tables](#tables-1)
-    - [Abbreviation](#abbreviation)
-    - [Admonition](#admonition)
-    - [Footnotes](#footnotes)
+- [Markdown Basics](#markdown-basics)
+  - [Comments](#comments)
+  - [Emphasis](#emphasis)
+  - [Lists](#lists)
+  - [Images](#images)
+  - [Links](#links)
+  - [Emoji](#emoji)
+  - [Quotes](#quotes)
+  - [Horizontal Rule](#horizontal-rule)
+  - [Summary dropdown](#summary-dropdown)
+  - [Inline code](#inline-code)
+  - [Fenced code block](#fenced-code-block)
+  - [Task lists](#task-lists)
+  - [Tables](#tables)
+  - [Extended syntax In MPE](#extended-syntax-in-mpe)
+      - [Tables](#tables-1)
+      - [Abbreviation](#abbreviation)
+      - [Admonition](#admonition)
+      - [Super/Subscript](#supersubscript)
+      - [Footnotes](#footnotes)
+
+---
+
+- [references](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
+
+# Markdown Basics
 
 ## Comments
 <!-- You can not see me! -->
@@ -129,6 +137,12 @@ The HTML specification is maintained by the W3C.
 #### Admonition
 !!! note This is the admonition title
     This is the admonition body
+
+#### Super/Subscript
+
+30^th^
+
+H~2~O
 
 #### Footnotes
 
